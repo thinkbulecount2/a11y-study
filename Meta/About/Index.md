@@ -4,7 +4,7 @@ tags:
   - meta
 draft: true
 created: 2024-07-09, 18:45
-updated: 2024-07-09 20:17
+updated: 2024-08-09 13:40
 ---
 # Index
 
@@ -20,5 +20,11 @@ updated: 2024-07-09 20:17
 ### 1.6 Templates
 ## 2 Week 0
 ### 2.1 Outline
-### 2.2 Prerequisites
-## README
+
+## 3 Week 1
+### 3.1 WAS Body of Knowledge
+### 3.2 WAS Certification Exam 2024
+### 3.3 WAS Credential Content Outline
+### 3.4 WAS Prerequisites
+
+## 4 README

@@ -1,9 +1,10 @@
 ---
 title: Outline
-tags: 
-draft: true
+tags:
+  - meta
+draft: false
 created: 2024-07-09, 18:47
-updated: 2024-07-09 19:28
+updated: 2024-08-09 14:40
 ---
 # Outline
 
@@ -16,8 +17,9 @@ updated: 2024-07-09 19:28
 #### 1.2.2 Accessibility Axioms
 #### 1.2.3 Accessibility, Usability, Inclusion
 ### 1.3 Digital Accessibility
-#### 1.3.1 Components
+#### 1.3.1 Componentsw
 ##### 1.3.1.1 Assistive Technology
+###### 1.3.1.1.1 How do disabled people use digital products?
 ##### 1.3.1.2 User Agents
 ##### 1.3.1.3 Design and Development
 ##### 1.3.1.4 Authoring Tools
@@ -68,7 +70,7 @@ updated: 2024-07-09 19:28
 ### 4.4 QA Testing and Frameworks
 ## 5 Content
 ### 5.1 Authoring Content
-#### 5.1.1 Plain English
+#### 5.1.1 Plain Language
 #### 5.1.2 Text Hierarchy
 #### 5.1.3 Accessibility Statements
 ### 5.2 Alternative Text, Captions, and Descriptions
